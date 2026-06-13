@@ -1,2 +1,4 @@
 # ocean_evolution_code_in_place
-A real-time arcade game built in Python with pygame. Help a tiny larva grow and evolve through three tiers. Survive other fish, a predatory shark and grow to be the ultimate Ocean monster.
+Ocean Evolution is a real-time arcade game built in Python with pygame. 
+The player controls a tiny larva in the ocean that grows by eating food and smaller creatures, evolving through three tiers. 
+A predatory shark appears at Tier 2 and hunts the player — the only way to win is to grow large enough to turn the tables and eat it.
